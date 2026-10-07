@@ -27,6 +27,6 @@
 | 2026-10-07 | 16 | 자동 수익화 | 한국 특화 데이터 API 종량제 판매 | 공휴일·사업자번호 검증·주소 정제 등 국내 개발자용 API 구축 → API 마켓플레이스 등록 → 호출량 기반 과금 | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/16-korea-data-api.md](plans/16-korea-data-api.md) |
 | 2026-10-07 | 17 | 재정 | 예적금·파킹통장 금리 자동 비교 & 갈아타기 알림 | 금감원 금융상품 비교공시 Open API 매일 수집 → 내 계좌 금리와 비교 → 일정 %p 이상 차이 나면 알림 | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/17-deposit-rate-switch-alert.md](plans/17-deposit-rate-switch-alert.md) |
 | 2026-10-07 | 18 | 생활·재정 | 계약서·보증서 자동 정리 & 만료 알림 | 계약서·영수증·보증서 스캔 → OCR·AI로 만료일·자동갱신일·보증기간 추출 → 만료 전 알림 | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/18-contract-warranty-tracker.md](plans/18-contract-warranty-tracker.md) |
-| 2026-10-08 | 19 | 재정·투자 | 공모주 청약 자동 분석 & 알림 | DART 공시 Open API로 증권신고서·정정공시 수집 → 수요예측 경쟁률·의무보유확약·유통물량 추출 → 청약 여부 점수와 일정 알림 (매매는 하지 않음) | 제안 | |
-| 2026-10-08 | 20 | 창업·커리어 | 정부 창업·지원사업 자동 매칭 알림 | 기업마당·창업지원 공공 API 매일 수집 → 내 프로필(나이·업력·업종)과 자격 조건 매칭 → 마감 일정·제출서류 체크리스트 알림 (지원금·상금 수익) | 제안 | |
-| 2026-10-08 | 21 | 생활·재정 | 안 쓰는 물건 현금화 도우미 | 물건 사진 → AI가 제품 식별·상태 설명·판매글 초안 작성 → 새 제품 가격 기반 적정가 제안 → 게시는 본인이 직접 | 제안 | |
+| 2026-10-08 | 19 | 재정·투자 | 공모주 청약 자동 분석 & 알림 | DART 공시 Open API로 증권신고서·정정공시 수집 → 수요예측 경쟁률·의무보유확약·유통물량 추출 → 청약 여부 점수와 일정 알림 (매매는 하지 않음) | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/19-ipo-subscription-analyzer.md](plans/19-ipo-subscription-analyzer.md) |
+| 2026-10-08 | 20 | 창업·커리어 | 정부 창업·지원사업 자동 매칭 알림 | 기업마당·창업지원 공공 API 매일 수집 → 내 프로필(나이·업력·업종)과 자격 조건 매칭 → 마감 일정·제출서류 체크리스트 알림 (지원금·상금 수익) | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/20-startup-grant-matcher.md](plans/20-startup-grant-matcher.md) |
+| 2026-10-08 | 21 | 생활·재정 | 안 쓰는 물건 현금화 도우미 | 물건 사진 → AI가 제품 식별·상태 설명·판매글 초안 작성 → 새 제품 가격 기반 적정가 제안 → 게시는 본인이 직접 | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/21-declutter-resale-helper.md](plans/21-declutter-resale-helper.md) |
