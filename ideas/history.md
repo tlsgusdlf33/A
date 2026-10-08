@@ -30,6 +30,6 @@
 | 2026-10-08 | 19 | 재정·투자 | 공모주 청약 자동 분석 & 알림 | DART 공시 Open API로 증권신고서·정정공시 수집 → 수요예측 경쟁률·의무보유확약·유통물량 추출 → 청약 여부 점수와 일정 알림 (매매는 하지 않음) | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/19-ipo-subscription-analyzer.md](plans/19-ipo-subscription-analyzer.md) |
 | 2026-10-08 | 20 | 창업·커리어 | 정부 창업·지원사업 자동 매칭 알림 | 기업마당·창업지원 공공 API 매일 수집 → 내 프로필(나이·업력·업종)과 자격 조건 매칭 → 마감 일정·제출서류 체크리스트 알림 (지원금·상금 수익) | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/20-startup-grant-matcher.md](plans/20-startup-grant-matcher.md) |
 | 2026-10-08 | 21 | 생활·재정 | 안 쓰는 물건 현금화 도우미 | 물건 사진 → AI가 제품 식별·상태 설명·판매글 초안 작성 → 새 제품 가격 기반 적정가 제안 → 게시는 본인이 직접 | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/21-declutter-resale-helper.md](plans/21-declutter-resale-helper.md) |
-| 2026-10-09 | 22 | 자동 수익화 | HWP 공문서 변환·요약 웹앱 (크레딧 판매) | HWP·HWPX 업로드 → 텍스트·표 추출 → PDF·Word 변환 + 공고문 핵심(자격·마감·제출서류) 요약 → 무료 일일 한도 + 크레딧 팩 결제 | 탈락 | |
+| 2026-10-09 | 22 | 자동 수익화 | HWP 공문서 변환·요약 웹앱 (크레딧 판매) | HWP·HWPX 업로드 → 텍스트·표 추출 → PDF·Word 변환 + 공고문 핵심(자격·마감·제출서류) 요약 → 무료 일일 한도 + 크레딧 팩 결제 | 탈락 | 웹 HWP 호환 프로그램이 이미 있어 의미 적음 |
 | 2026-10-09 | 23 | 재정 | 카드 혜택 최적화 & 전월 실적 알림 | 6번 카드 사용 데이터 + 카드 상품설명서 혜택 구조화 → 내 소비로 카드별 혜택 시뮬레이션 → 최적 카드 조합 추천, 전월 실적 부족분 알림 | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/23-card-benefit-optimizer.md](plans/23-card-benefit-optimizer.md) |
 | 2026-10-09 | 24 | 생활·재정 | 실손보험 미청구 보험금 찾기 도우미 | 병원·약국 영수증 사진 수집 → 진료비 항목 추출 → 자기부담금 제외 청구 가능액 계산 → 미청구 목록·청구 기한(3년) 알림 → 청구는 본인이 앱에서 | 채택 | 다른 Claude Code에서 제작 예정 · 계획: [plans/24-unclaimed-insurance-finder.md](plans/24-unclaimed-insurance-finder.md) |
